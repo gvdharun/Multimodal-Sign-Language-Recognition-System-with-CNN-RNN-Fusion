@@ -54,3 +54,8 @@ This project implements a real-time Indian Sign Language (ISL) recognition syste
 *   `models/`: Stores the trained models.
 *   `src/`: Includes source code for data preprocessing, feature extraction, model architecture, and training.
 *   `notebooks/`: Jupyter notebooks used for experimentation and analysis.
+
+## Reference
+
+For in-depth information on the project architecture, workflow, and detailed specifications, see the attached PDF file: 
+`project report.pdf`.
