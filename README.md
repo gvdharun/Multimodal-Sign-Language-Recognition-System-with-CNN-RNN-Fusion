@@ -35,9 +35,6 @@ This project implements a real-time Indian Sign Language (ISL) recognition syste
 2.  **Prepare Dataset:** Organize video data in the specified format.
 3.  **Run the System:** Execute the main script to perform real-time sign language recognition.
 
-    ```
-    python main.py --model_path path/to/your/model --video_source 0
-    ```
 
 ## Project Objectives
 
