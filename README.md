@@ -58,4 +58,4 @@ This project implements a real-time Indian Sign Language (ISL) recognition syste
 ## Reference
 
 For in-depth information on the project architecture, workflow, and detailed specifications, see the attached PDF file: 
-`project report.pdf`.
+`Project report.pdf`.
